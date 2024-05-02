@@ -22,6 +22,7 @@ Eerie black: rgb(35, 39, 42)
     height: 1000px;
     background-color: white;
  }
+ /*LOGO IN ALTO */
  .row1 {
     background-color: rgb(173, 216, 230) ;
     height: 5%;
@@ -67,6 +68,7 @@ Eerie black: rgb(35, 39, 42)
     padding: 5px;
     align-items: center;
  }
+ /* HEADER */
  .row2 {
     background-color: rgb(0, 0, 139);
     height: 40%;
@@ -79,6 +81,7 @@ Eerie black: rgb(35, 39, 42)
     margin: auto;
     display: flex;
  }
+ /* PRIMA E TERZA SEZIONE */
  .row3 {
     background-color: white;
     height: 50%;
@@ -96,6 +99,7 @@ Eerie black: rgb(35, 39, 42)
     width: 20%;
     background-color: rgb(253, 190, 195);
  }
+ /* SECONDA SEZIONE */
  .row4 {
     background-color: rgb(211, 211, 211);
     height: 50%;
@@ -103,6 +107,7 @@ Eerie black: rgb(35, 39, 42)
     justify-content: center;
     align-items: center;
  }
+ /* QUARTA SEZIONE */
  .row5 {
     background-color: rgb(211, 211, 211);
     height: 50%;
@@ -115,6 +120,7 @@ Eerie black: rgb(35, 39, 42)
     width: 50%;
     background-color: rgb(34, 139, 34);
  }
+ /* FOOTER */
  .row6 {
     background-color: rgb(35, 39, 42);
     height: 45%;
@@ -135,6 +141,7 @@ Eerie black: rgb(35, 39, 42)
     background-color: rgb(32, 178, 170);
     border: 2px dotted white;
  }
+ /* LOGO IN BASSO */
  .row7 {
     background-color: rgb(35, 39, 42);
     height: 7%;
