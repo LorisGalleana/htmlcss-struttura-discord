@@ -139,13 +139,13 @@ Eerie black: rgb(35, 39, 42)
  }
  .col8 {
     height: 90%;
-    width: 20%;
+    width: 16%;
     background-color: rgb(240, 128, 128);
     border: 1px dotted;
  }
  .col9 {
     height: 90%;
-    width: 10%;
+    width: 11%;
     background-color: rgb(32, 178, 170);
     border: 2px dotted white;
  }
