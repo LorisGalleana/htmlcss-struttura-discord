@@ -10,3 +10,9 @@ Light coral: rgb(240, 128, 128)
 Light sea green: rgb(32, 178, 170)
 Aquamarine: rgb(124, 242, 213)
  */
+
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
